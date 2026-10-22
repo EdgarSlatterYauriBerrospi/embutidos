@@ -1,0 +1,26 @@
+# Sistema de Gestión de Ventas de Embutidos
+
+Proyecto académico del curso Servicios Cloud - UTP.
+
+## Organización
+Embutidos Cáceres
+
+## Tecnologías
+- Frontend: React
+- Backend: Spring Boot
+- Base de datos: MySQL
+- Cloud previsto: AWS
+
+## Estructura
+- `frontend/` Aplicación web en React
+- `backend/` API REST en Spring Boot
+
+## Estado actual
+El sistema cuenta con frontend, backend y base de datos funcionales en entorno local.
+
+## Próximos pasos
+- Contenerización con Docker
+- Docker Compose
+- Arquitectura cloud
+- Evidencias técnicas
+- Despliegue y monitoreo
