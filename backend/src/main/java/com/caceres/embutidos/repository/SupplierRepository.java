@@ -1,0 +1,9 @@
+package com.caceres.embutidos.repository;
+
+import com.caceres.embutidos.entity.Supplier;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface SupplierRepository extends JpaRepository<Supplier, Long> {
+
+
+}
