@@ -31,3 +31,4 @@ El sistema cuenta con frontend, backend y base de datos funcionales en entorno l
 - Persistencia de datos verificada mediante volumen Docker.
 - Arquitectura AWS y topología de red documentadas.
 - Evidencias técnicas registradas para el APF2.
+- Completed
