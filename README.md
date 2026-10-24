@@ -24,3 +24,10 @@ El sistema cuenta con frontend, backend y base de datos funcionales en entorno l
 - Arquitectura cloud
 - Evidencias técnicas
 - Despliegue y monitoreo
+
+## Avance APF2
+
+- Backend, frontend y MySQL ejecutados con Docker Compose.
+- Persistencia de datos verificada mediante volumen Docker.
+- Arquitectura AWS y topología de red documentadas.
+- Evidencias técnicas registradas para el APF2.
